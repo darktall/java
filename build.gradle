@@ -1,4 +1,4 @@
-apply:'java'
+apply plugin: 'java'
 repositories {
     mavenCentral()
 }
