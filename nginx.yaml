@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:${bamboo.buildNumber}
+        image: nginx:bnumber
         ports:
         - containerPort: 80
