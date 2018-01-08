@@ -9,6 +9,6 @@ dependencies {
     testCompile "junit:junit:4.12"
 }
 jar {
-    baseName = 'gs-gradle'
+    baseName = 'dark'
     version =  '0.1.0'
 }
